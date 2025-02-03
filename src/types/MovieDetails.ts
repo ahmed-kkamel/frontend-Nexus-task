@@ -1,0 +1,23 @@
+export type MovieDetails = {
+  Title: string;
+  Year: string;
+  Genre: string;
+  Director: string;
+  Writer: string;
+  Actors: string;
+  Plot: string;
+  Poster: string;
+  Runtime: string;
+  Language: string;
+  Country: string;
+  Awards: string;
+  BoxOffice: string;
+  imdbRating: string;
+  imdbVotes: string;
+  Metascore: string;
+  Released: string;
+  DVD: string;
+  Production: string;
+  Website: string;
+  imdbID: string;
+};

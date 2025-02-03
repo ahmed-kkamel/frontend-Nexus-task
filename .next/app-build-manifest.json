@@ -1,0 +1,45 @@
+{
+  "pages": {
+    "/not-found": [
+      "static/chunks/webpack-bb71489409570442.js",
+      "static/chunks/4bd1b696-e08cee46e9b2d97c.js",
+      "static/chunks/517-6718444cc28eee38.js",
+      "static/chunks/main-app-4ec1c09af500756d.js",
+      "static/chunks/173-54afc4be96ecfb6f.js",
+      "static/chunks/app/not-found-81796042a2a992ca.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-bb71489409570442.js",
+      "static/chunks/4bd1b696-e08cee46e9b2d97c.js",
+      "static/chunks/517-6718444cc28eee38.js",
+      "static/chunks/main-app-4ec1c09af500756d.js",
+      "static/chunks/app/_not-found/page-d0fbfad21229a527.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-bb71489409570442.js",
+      "static/chunks/4bd1b696-e08cee46e9b2d97c.js",
+      "static/chunks/517-6718444cc28eee38.js",
+      "static/chunks/main-app-4ec1c09af500756d.js",
+      "static/css/bca47589de75b269.css",
+      "static/chunks/app/layout-690898fb6cc5c8b5.js"
+    ],
+    "/movie/[imdbID]/page": [
+      "static/chunks/webpack-bb71489409570442.js",
+      "static/chunks/4bd1b696-e08cee46e9b2d97c.js",
+      "static/chunks/517-6718444cc28eee38.js",
+      "static/chunks/main-app-4ec1c09af500756d.js",
+      "static/chunks/173-54afc4be96ecfb6f.js",
+      "static/chunks/970-3e40173963fb7b14.js",
+      "static/chunks/app/movie/[imdbID]/page-058f7a59083be729.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-bb71489409570442.js",
+      "static/chunks/4bd1b696-e08cee46e9b2d97c.js",
+      "static/chunks/517-6718444cc28eee38.js",
+      "static/chunks/main-app-4ec1c09af500756d.js",
+      "static/chunks/173-54afc4be96ecfb6f.js",
+      "static/chunks/970-3e40173963fb7b14.js",
+      "static/chunks/app/page-8b487f127465c5fb.js"
+    ]
+  }
+}
